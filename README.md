@@ -1,2 +1,2 @@
-# GIT
+# Git/pro
 Pro course
